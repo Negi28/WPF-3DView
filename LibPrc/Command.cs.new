@@ -1,0 +1,371 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Presto.PRC
+{   
+    public enum Command
+    {
+        CMD_NONE = 0x0000,
+
+        /***********************************/
+        //Connection & Login
+        /***********************************/
+        CMD_CONNECT,
+        CMD_GET_LOGIN_STATUS,       //[A]: Request: 
+        CMD_SET_LOGIN,
+        CMD_SET_LOGIN_PW,
+
+        /***********************************/
+        //System
+        /***********************************/
+        CMD_GET_ECAT_STATE,         //[A]
+        CMD_RESTART_ECMASTER,       //[A]
+        CMD_GET_SYS_CYCLE_TIME,     //[A]
+        CMD_GET_STATUS_SYS,         //[A]
+        CMD_GET_SYS_RB_NUM,         //[A]
+        CMD_GET_LAN_IP_ADDR,        //[A]
+        CMD_SET_LAN_IP_ADDR,        //[A]
+
+        /***********************************/
+        //Robot Info
+        /***********************************/
+        //Get
+        CMD_GET_RPAR_RB_TYPE,       //[TP3.5]
+        CMD_GET_RPAR_RB_NAME,       //[TP3.5]
+        CMD_GET_RPAR_TOOL_TYPE,     //[TP3.5]
+        CMD_GET_RPAR_COORD_TYPE,    //[TP3.5]
+        CMD_GET_RPAR_DEF_VELP,      //[TP3.5]
+        CMD_GET_RPAR_DEF_JOG_VELP,  //[TP3.5]
+        CMD_GET_RPAR_WORK_AREA,     //[TP3.5]
+        CMD_GET_RPAR_AXIS_NUM,      //[TP3.5]
+        CMD_GET_RPAR_SW_NEG_LMT,    //[TP3.5]
+        CMD_GET_RPAR_SW_POS_LMT,    //[TP3.5]
+        CMD_GET_RPAR_DIRECTION,     //[TP3.5]
+        CMD_GET_RPAR_PITCH,         //[TP3.5]
+        CMD_GET_RPAR_GEAR_RATE,     //[TP3.5]
+        CMD_GET_RPAR_MAX_VEL,       //[TP3.5]
+        CMD_GET_RPAR_CMD_PULSE,     //[TP3.5]
+
+        //Set
+        CMD_SET_RPAR_RB_TYPE,       //[TP3.5]
+        CMD_SET_RPAR_RB_NAME,       //[TP3.5]
+        CMD_SET_RPAR_TOOL_TYPE,     //[TP3.5]
+        CMD_SET_RPAR_COORD_TYPE,    //[TP3.5]
+        CMD_SET_RPAR_DEF_VELP,      //[TP3.5]
+        CMD_SET_RPAR_DEF_JOG_VELP,  //[TP3.5]
+        CMD_SET_RPAR_WORK_AREA,     //[TP3.5]
+        CMD_SET_RPAR_AXIS_NUM,      //[TP3.5]
+        CMD_SET_RPAR_SW_NEG_LMT,    //[TP3.5]
+        CMD_SET_RPAR_SW_POS_LMT,    //[TP3.5]	
+        CMD_SET_RPAR_DRV_MAP_NUM,   //[TP3.5]
+        CMD_SET_RPAR_DIRECTION,     //[TP3.5]
+        CMD_SET_RPAR_PITCH,         //[TP3.5]
+        CMD_SET_RPAR_GEAR_RATE,     //[TP3.5]
+        CMD_SET_RPAR_MAX_VEL,       //[TP3.5]
+        CMD_SET_RPAR_CMD_PULSE,     //[TP3.5]
+
+
+        CMD_GET_CMD_POS,                //[A]
+        CMD_GET_STATUS_ROBOT_FOR_PRG,   //[A]
+        CMD_GET_STATUS_RB_MOTOR_ALL,    //[A]
+        CMD_GET_STATUS_ROBOT,
+        CMD_GET_STATUS_RB_MOTOR,
+
+        /***********************************/
+        //Jogging
+        /***********************************/
+        CMD_MOVE_STOP,                  //[A]
+        CMD_MOVE_ESTOP,                 //[A]
+        CMD_JOG_SET_VELP,               //[A]
+        CMD_JOG_GET_VELP,               //[A]
+        CMD_SET_SVON,                   //[A]
+        CMD_SET_SVOFF,                  //[A]
+        CMD_SET_ALRAM_CLEAR,            //[A]
+        CMD_JOG_MOVE_NEGATIVE,          //[A]
+        CMD_JOG_MOVE_POSITIVE,          //[A]
+        CMD_JOG_GOTO,
+        CMD_JOG_GOTO_WORLD,
+        CMD_JOG_STEP,
+        CMD_JOG_STEP_WORLD,
+        CMD_JOG_MOVE_X_NEGATIVE,
+        CMD_JOG_MOVE_X_POSITIVE,
+        CMD_JOG_MOVE_Y_NEGATIVE,
+        CMD_JOG_MOVE_Y_POSITIVE,
+        CMD_JOG_MOVE_Z_NEGATIVE,
+        CMD_JOG_MOVE_Z_POSITIVE,
+        CMD_JOG_MOVE_TX_NEGATIVE,
+        CMD_JOG_MOVE_TX_POSITIVE,
+        CMD_JOG_MOVE_TY_NEGATIVE,
+        CMD_JOG_MOVE_TY_POSITIVE,
+        CMD_JOG_MOVE_TZ_NEGATIVE,
+        CMD_JOG_MOVE_TZ_POSITIVE,
+        CMD_JOG_MOVE_RX_NEGATIVE,
+        CMD_JOG_MOVE_RX_POSITIVE,
+        CMD_JOG_MOVE_RY_NEGATIVE,
+        CMD_JOG_MOVE_RY_POSITIVE,
+        CMD_JOG_MOVE_RZ_NEGATIVE,
+        CMD_JOG_MOVE_RZ_POSITIVE,
+        CMD_JOG_MOVE_TRX_NEGATIVE,
+        CMD_JOG_MOVE_TRX_POSITIVE,
+        CMD_JOG_MOVE_TRY_NEGATIVE,
+        CMD_JOG_MOVE_TRY_POSITIVE,
+        CMD_JOG_MOVE_TRZ_NEGATIVE,
+        CMD_JOG_MOVE_TRZ_POSITIVE,
+        CMD_GET_VELP,
+        CMD_SET_VELP,
+        CMD_MOVE_READY,
+        CMD_ROBOT_MOVE,
+        CMD_ROBOT_MOVEJ,
+        CMD_ROBOT_MOVEL,
+        CMD_ROBOT_MOVEC,
+        CMD_BLEND_START,
+        CMD_BLEND_END,
+        CMD_SET_TOOL_Z,
+        CMD_ROBOT_MOVE_REL,
+        CMD_ROBOT_MOVEJ_REL,
+        CMD_ROBOT_MOVEL_REL,
+        CMD_ROBOT_MOVE_X,
+        CMD_ROBOT_MOVE_Y,
+        CMD_ROBOT_MOVE_Z,
+        CMD_ROBOT_MOVE_TX,
+        CMD_ROBOT_MOVE_TY,
+        CMD_ROBOT_MOVE_TZ,
+
+        /***********************************/
+        //IO
+        /***********************************/
+        //Digital Input
+        CMD_GET_DI_NUM,
+        CMD_GET_DI_PORT_SIZE,
+        CMD_GET_DI_PORT,
+        CMD_GET_DI_PORT_BIT,
+        CMD_GET_DI_ALL,
+
+        //Digital Output
+        CMD_GET_DOUT_PORT,
+        CMD_GET_DOUT_PORT_BIT,
+        CMD_GET_DOUT_NUM,
+        CMD_GET_DOUT_PORT_SIZE,
+        CMD_GET_DOUT_ALL,
+
+        CMD_SET_DOUT_PORT,
+        CMD_SET_DOUT_PORT_BIT,
+
+        //Analog Input
+        CMD_GET_AI_NUM,
+        CMD_GET_AI_ALL,
+        CMD_GET_AI,
+
+        //Analog Output
+        CMD_GET_AOUT_NUM,
+        CMD_GET_AO_ALL,
+        CMD_GET_AO,
+        CMD_SET_AO,
+
+        /***********************************/
+        //Scope
+        /***********************************/
+        CMD_SET_SCOPE_PARA,
+        CMD_RUN_SCOPE,
+        CMD_STOP_SCOPE,
+        CMD_GET_SCOPE_DATA,
+        CMD_GET_SCOPE_PARA_ALL,
+        CMD_SET_SCOPE_PARA_ALL,
+
+        /***********************************/
+        //Program
+        /***********************************/
+        CMD_PRG_GET_LIST,
+        CMD_PRG_GET_ALL_STATUS,
+        CMD_PRG_GET_STATUS,
+        CMD_PRG_OPEN,
+        CMD_PRG_COMPILE,
+        CMD_PRG_SAVE,
+        CMD_PRG_START,
+        CMD_PRG_PAUSE,
+        CMD_PRG_RESUME,
+        CMD_PRG_STOP,
+        CMD_PRG_STOP_ALL,
+        CMD_PRG_GET_AUTORUN,
+        CMD_PRG_SET_AUTORUN,
+        CMD_PRG_GET_ERR_MSG,
+        CMD_PRG_EXEC_SINGLE_STRING,
+        CMD_PRG_OPEN_EXT,           //[TP3.5]
+        CMD_PRG_SAVE_EXT,           //[TP3.5]
+        CMD_PRG_GET_DESC,           //[TP3.5]
+        CMD_PRG_SAVE_DESC,          //[TP3.5]
+        CMD_PRG_GET_SIZE,           //[TP3.5]
+
+        /***********************************/
+        //Sub-program
+        /***********************************/
+        CMD_SUB_PRG_GET_ALL_STATUS,
+        CMD_SUB_PRG_GET_STATUS,
+        CMD_SUB_PRG_OPEN,
+        CMD_SUB_PRG_COMPILE,
+        CMD_SUB_PRG_SAVE,
+        CMD_SUB_PRG_DELETE,
+        CMD_SUB_PRG_GET_ERR_MSG,
+
+        /***********************************/
+        //Variable
+        /***********************************/
+        //Ivar
+        CMD_GET_I_VAR_ALL,
+        CMD_GET_I_VAR,
+        CMD_ADD_I_VAR,
+        CMD_DELETE_I_VAR,
+        CMD_SET_I_VAR,
+        CMD_SET_I_VAR_ALL,
+
+        //DVar
+        CMD_ADD_D_VAR,
+        CMD_GET_D_VAR,
+        CMD_DELETE_D_VAR,
+        CMD_SET_D_VAR,
+        CMD_GET_D_VAR_ALL,
+        CMD_SET_D_VAR_ALL,
+
+        //PosVar
+        CMD_GET_POS_VAR_ALL,
+        CMD_GET_POS_VAR_NUMBER,
+        CMD_GET_POS_VAR_ALL_EXT,
+        CMD_ADD_POS_VAR,
+        CMD_DELETE_POS_VAR,
+        CMD_SET_POS_VAR_ALL,
+        CMD_GET_JPOS_VAR,
+        CMD_GET_WPOS_VAR,
+        CMD_SET_JPOS_VAR,
+        CMD_SET_WPOS_VAR,
+
+        /***********************************/
+        //Log
+        /***********************************/
+        CMD_GET_LOG_LINE_NUM,
+        CMD_GET_LOG_STR,
+        CMD_GET_LOG_FILE,   //[A]User log file   	
+        CMD_SET_LOG_FILE,   //[A]User log file 
+        CMD_CLEAR_LOG,
+
+        /***********************************/
+        //Homing
+        /***********************************/
+        CMD_GET_HOMING_STATUS,
+        CMD_GET_ORG_MPARA,
+        CMD_SET_ORG_MPARA,
+        CMD_START_HOMING,
+        CMD_STOP_HOMING,
+
+        /***********************************/
+        //Motion Parameter
+        /***********************************/
+        //Get
+        CMD_JOG_GET_MPARA_BASE_TIME,        //Jog
+        CMD_GET_MPARA_BASE_TIME,            //Program
+        CMD_GET_READY_MPARA_BASE_TIME,      //Ready	
+        CMD_GET_READY_POSITION,
+        CMD_GET_JOINT_VEL,
+        CMD_GET_WORK_VEL,
+        CMD_GET_READY_VEL,
+        CMD_GET_JOINT_ATIME,
+        CMD_GET_WORK_ATIME,
+        CMD_GET_READY_ATIME,
+        CMD_GET_JOINT_DTIME,
+        CMD_GET_WORK_DTIME,
+        CMD_GET_READY_DTIME,
+        CMD_GET_JOINT_KILL_DTIME,
+        CMD_GET_WORK_KILL_DTIME,
+        CMD_GET_READY_KILL_DTIME,
+        CMD_GET_JOINT_JERK_TIMEP,
+        CMD_GET_WORK_JERK_TIMEP,
+        CMD_GET_READY_JERK_TIMEP,
+
+        //Set
+        CMD_JOG_SET_MPARA_BASE_TIME,
+        CMD_SET_MPARA_BASE_TIME,
+        CMD_SET_READY_MPARA_BASE_TIME,
+        CMD_SET_READY_POSITION,
+        CMD_SET_JOINT_VEL,
+        CMD_SET_WORK_VEL,
+        CMD_SET_READY_VEL,
+        CMD_SET_JOINT_ATIME,
+        CMD_SET_WORK_ATIME,
+        CMD_SET_READY_ATIME,
+        CMD_SET_JOINT_DTIME,
+        CMD_SET_WORK_DTIME,
+        CMD_SET_READY_DTIME,
+        CMD_SET_JOINT_KILL_DTIME,
+        CMD_SET_WORK_KILL_DTIME,
+        CMD_SET_READY_KILL_DTIME,
+        CMD_SET_JOINT_JERK_TIMEP,
+        CMD_SET_WORK_JERK_TIMEP,
+        CMD_SET_READY_JERK_TIMEP,
+
+        /***********************************/
+        //XML database files
+        /***********************************/
+        //Get
+        CMD_GET_SYS_FILE,
+        CMD_GET_RB_PARA_FILE,       //Base on RobotNo
+        CMD_GET_RB_PARA_XML_FILE,   //Base on Path for template
+        CMD_GET_POS_VAR_FILE,
+        CMD_GET_VAR_FILE,
+        CMD_GET_TOOL_PARA_XML_FILE,
+
+        //Set/Save
+        CMD_SET_SYS_FILE,
+        CMD_SET_RB_PARA_FILE,
+        CMD_SET_POS_VAR_FILE,
+        CMD_SET_VAR_FILE,
+
+        //Search/List
+        CMD_SEARCH_RB_PARA_FOLDER,
+        CMD_SEARCH_RB_PARA_FILE,
+        CMD_SEARCH_ENI_FILE,
+
+        //Save to flash
+        CMD_SAVE_TO_SYS_FILE,               //SytemPara
+        CMD_SAVE_TO_RPARA_FILE,             //Robot
+        CMD_SAVE_TO_RPOS_FILE,  //Position
+        CMD_SAVE_TO_RVAR_FILE,  //Int, Double
+        CMD_SEARCH_TOOL_PARA_FILE,
+        CMD_CHANGE_USER_DEFINE_TOOL_POS,
+        CMD_GET_STATUS_MAP_MOTOR,
+        CMD_GET_STATUS_ROBOT_ALL,
+        CMD_GET_STATUS_MAP_MOTOR_ALL,
+
+        //ENI file
+        CMD_ADD_ENI_FILE,
+        CMD_DELETE_ENI_FILE,
+
+        //Drive
+        CMD_GET_DRV_DI_ALL,
+        CMD_GET_DRV_DI_PORT,
+        CMD_GET_DRV_DI_BIT,
+        CMD_SET_DRV_DO_PORT,
+
+        CMD_GET_DRV_DO_ALL,
+        CMD_GET_DRV_DO_PORT,
+        CMD_GET_DRV_DO_BIT,
+        CMD_SET_DRV_DO_BIT,
+
+        /***********************************/
+        //Others
+        /***********************************/
+        CMD_GET_ERR_STRING,
+        CMD_CHANGE_EC_LICENSE_STR,
+        CMD_FW_GET_VERSION,
+        CMD_SYSTEM_REBOOT,
+        CMD_GET_KEY_WORD_FILE,
+        CMD_GET_DATETIME,
+        CMD_SET_DATETIME,
+
+        //Re-check command
+        CMD_TP_GET_SYS_INFO,
+        CMD_TP_GET_RB_INFO,
+        CMD_TP_GET_SYS_STATE,
+    }   
+}

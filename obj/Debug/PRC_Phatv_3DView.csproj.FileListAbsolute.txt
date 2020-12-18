@@ -1,0 +1,224 @@
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\bin\Debug\PRC_Phatv_3DView.exe.config
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\bin\Debug\PRC_Phatv_3DView.exe
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\bin\Debug\PRC_Phatv_3DView.pdb
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\bin\Debug\AvalonDock.dll
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\bin\Debug\ICSharpCode.AvalonEdit.dll
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\bin\Debug\libPrc.dll
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\bin\Debug\OpenTK.dll
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\bin\Debug\OpenTK.GLControl.dll
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\bin\Debug\libPrc.pdb
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.csprojAssemblyReference.cache
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\OpenGL\WpfOpenGLControl.baml
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\Resources\String.baml
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\MainWindow.g.cs
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\OpenGL\WpfOpenGLControl.g.cs
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\Uc3DView.g.cs
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\App.g.cs
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView_MarkupCompile.cache
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView_MarkupCompile.lref
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\MainWindow.baml
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\Uc3DView.baml
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.g.resources
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.Properties.Resources.resources
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.csproj.GenerateResource.cache
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.csproj.CoreCompileInputs.cache
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.csproj.CopyComplete
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.exe
+D:\11-Data\11-Program Practice\C#\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\bin\Debug\PRC_Phatv_3DView.exe.config
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\bin\Debug\PRC_Phatv_3DView.exe
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\bin\Debug\PRC_Phatv_3DView.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\bin\Debug\AvalonDock.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\bin\Debug\ICSharpCode.AvalonEdit.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\bin\Debug\libPrc.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\bin\Debug\OpenTK.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\bin\Debug\OpenTK.GLControl.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\bin\Debug\libPrc.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.csprojAssemblyReference.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\OpenGL\WpfOpenGLControl.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\Resources\String.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\MainWindow.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\OpenGL\WpfOpenGLControl.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\Uc3DView.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\App.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView_MarkupCompile.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView_MarkupCompile.lref
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\MainWindow.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\Uc3DView.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.g.resources
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.Properties.Resources.resources
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.csproj.GenerateResource.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.csproj.CoreCompileInputs.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.csproj.CopyComplete
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.exe
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView\obj\Debug\PRC_Phatv_3DView.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\PRC_Phatv_3DView.exe.config
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\PRC_Phatv_3DView.exe
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\PRC_Phatv_3DView.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\AvalonDock.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\ICSharpCode.AvalonEdit.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\libPrc.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\OpenTK.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\OpenTK.GLControl.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\libPrc.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csprojAssemblyReference.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\OpenGL\WpfOpenGLControl.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\Resources\String.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\MainWindow.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\OpenGL\WpfOpenGLControl.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\Uc3DView.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\App.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView_MarkupCompile.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView_MarkupCompile.lref
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\MainWindow.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\Uc3DView.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.g.resources
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.Properties.Resources.resources
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csproj.GenerateResource.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csproj.CoreCompileInputs.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csproj.CopyComplete
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.exe
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_BK200604\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.pdb
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\PRC_Phatv_3DView.exe.config
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\PRC_Phatv_3DView.exe
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\PRC_Phatv_3DView.pdb
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\AvalonDock.dll
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\ICSharpCode.AvalonEdit.dll
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\libPrc.dll
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\OpenTK.dll
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\OpenTK.GLControl.dll
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\libPrc.pdb
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csprojAssemblyReference.cache
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\OpenGL\WpfOpenGLControl.baml
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\Resources\String.baml
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\MainWindow.g.cs
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\OpenGL\WpfOpenGLControl.g.cs
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\Uc3DView.g.cs
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\App.g.cs
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView_MarkupCompile.cache
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView_MarkupCompile.lref
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\MainWindow.baml
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\Uc3DView.baml
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.g.resources
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.Properties.Resources.resources
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csproj.GenerateResource.cache
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csproj.CoreCompileInputs.cache
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csproj.CopyComplete
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.exe
+D:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\PRC_Phatv_3DView.exe.config
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\PRC_Phatv_3DView.exe
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\PRC_Phatv_3DView.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\AvalonDock.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\ICSharpCode.AvalonEdit.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\libPrc.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\OpenTK.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\OpenTK.GLControl.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\bin\Debug\libPrc.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csprojAssemblyReference.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\OpenGL\WpfOpenGLControl.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\Resources\String.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\MainWindow.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\OpenGL\WpfOpenGLControl.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\Uc3DView.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\App.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView_MarkupCompile.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView_MarkupCompile.lref
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\MainWindow.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\Uc3DView.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.g.resources
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.Properties.Resources.resources
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csproj.GenerateResource.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csproj.CoreCompileInputs.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.csproj.CopyComplete
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.exe
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\PRC_Phatv_3DView_LMMC_7LM_2MM\obj\Debug\PRC_Phatv_3DView.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\bin\Debug\PRC_Phatv_3DView.exe.config
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\bin\Debug\PRC_Phatv_3DView.exe
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\bin\Debug\PRC_Phatv_3DView.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\bin\Debug\AvalonDock.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\bin\Debug\ICSharpCode.AvalonEdit.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\bin\Debug\libPrc.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\bin\Debug\OpenTK.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\bin\Debug\OpenTK.GLControl.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\bin\Debug\libPrc.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.csprojAssemblyReference.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\OpenGL\WpfOpenGLControl.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\Resources\String.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\MainWindow.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\OpenGL\WpfOpenGLControl.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\Uc3DView.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\App.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView_MarkupCompile.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView_MarkupCompile.lref
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\MainWindow.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\Uc3DView.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.g.resources
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.Properties.Resources.resources
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.csproj.GenerateResource.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.csproj.CoreCompileInputs.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.csproj.CopyComplete
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.exe
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_7LM_2MM_NEW_STYLE\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\bin\Debug\PRC_Phatv_3DView.exe.config
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\bin\Debug\PRC_Phatv_3DView.exe
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\bin\Debug\PRC_Phatv_3DView.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\bin\Debug\AvalonDock.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\bin\Debug\ICSharpCode.AvalonEdit.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\bin\Debug\libPrc.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\bin\Debug\OpenTK.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\bin\Debug\OpenTK.GLControl.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\bin\Debug\libPrc.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.csprojAssemblyReference.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\OpenGL\WpfOpenGLControl.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\Resources\String.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\MainWindow.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\OpenGL\WpfOpenGLControl.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\Uc3DView.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\App.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView_MarkupCompile.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView_MarkupCompile.lref
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\MainWindow.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\Uc3DView.baml
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.g.resources
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.Properties.Resources.resources
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.csproj.GenerateResource.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.csproj.CoreCompileInputs.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.csproj.CopyComplete
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.exe
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\10-LMMC 3D Diplay\PRC_Phatv_3DView_LMMC_For_Demo\LMMC_3D_Display\obj\Debug\PRC_Phatv_3DView.pdb
+d:\11-Data\13-Github\11-Local\WPF-3D-View\bin\Debug\PRC_Phatv_3DView.exe.config
+d:\11-Data\13-Github\11-Local\WPF-3D-View\bin\Debug\PRC_Phatv_3DView.exe
+d:\11-Data\13-Github\11-Local\WPF-3D-View\bin\Debug\PRC_Phatv_3DView.pdb
+d:\11-Data\13-Github\11-Local\WPF-3D-View\bin\Debug\AvalonDock.dll
+d:\11-Data\13-Github\11-Local\WPF-3D-View\bin\Debug\ICSharpCode.AvalonEdit.dll
+d:\11-Data\13-Github\11-Local\WPF-3D-View\bin\Debug\libPrc.dll
+d:\11-Data\13-Github\11-Local\WPF-3D-View\bin\Debug\OpenTK.dll
+d:\11-Data\13-Github\11-Local\WPF-3D-View\bin\Debug\OpenTK.GLControl.dll
+d:\11-Data\13-Github\11-Local\WPF-3D-View\bin\Debug\libPrc.pdb
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\PRC_Phatv_3DView.csprojAssemblyReference.cache
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\OpenGL\WpfOpenGLControl.baml
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\Resources\String.baml
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\MainWindow.g.cs
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\OpenGL\WpfOpenGLControl.g.cs
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\Uc3DView.g.cs
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\App.g.cs
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\PRC_Phatv_3DView_MarkupCompile.cache
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\PRC_Phatv_3DView_MarkupCompile.lref
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\MainWindow.baml
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\Uc3DView.baml
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\PRC_Phatv_3DView.g.resources
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\PRC_Phatv_3DView.Properties.Resources.resources
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\PRC_Phatv_3DView.csproj.GenerateResource.cache
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\PRC_Phatv_3DView.csproj.CoreCompileInputs.cache
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\PRC_Phatv_3DView.csproj.CopyComplete
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\PRC_Phatv_3DView.exe
+d:\11-Data\13-Github\11-Local\WPF-3D-View\obj\Debug\PRC_Phatv_3DView.pdb

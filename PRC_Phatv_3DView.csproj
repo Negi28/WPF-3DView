@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{297545DD-FBE6-4581-9344-9B9794B4CF06}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PRC_Phatv_3DView</RootNamespace>
+    <AssemblyName>PRC_Phatv_3DView</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AvalonDock">
+      <HintPath>lib\AvalonDock.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.AvalonEdit">
+      <HintPath>lib\ICSharpCode.AvalonEdit.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK">
+      <HintPath>lib\opentk\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK.GLControl">
+      <HintPath>lib\opentk\OpenTK.GLControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="3DComponent\ARenderable.cs" />
+    <Compile Include="3DComponent\BasicColorRenderLines.cs" />
+    <Compile Include="3DComponent\LoadSTLModel.cs" />
+    <Compile Include="3DComponent\RenderObjectFactory.cs" />
+    <Compile Include="3DComponent\STLRenderObject.cs" />
+    <Compile Include="3DVisualization\LMMC_Infor.cs" />
+    <Compile Include="3DVisualization\VisualObject.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="Oribiter.cs" />
+    <Compile Include="Uc3DView.xaml.cs">
+      <DependentUpon>Uc3DView.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="OpenGL\WpfOpenGLControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\String.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Uc3DView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OpenGL\Camera.cs" />
+    <Compile Include="OpenGL\Shader.cs" />
+    <Compile Include="OpenGL\Texture.cs" />
+    <Compile Include="OpenGL\WpfOpenGLControl.xaml.cs">
+      <DependentUpon>WpfOpenGLControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\HighLighting.xshd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\3d.png" />
+    <Resource Include="Images\3d_16x16.png" />
+    <Resource Include="Images\alarm.png" />
+    <Resource Include="Images\app.png" />
+    <Resource Include="Images\awesomeface.png" />
+    <Resource Include="Images\axis.png" />
+    <Resource Include="Images\backward.png" />
+    <Resource Include="Images\bg-mini.png" />
+    <Resource Include="Images\bg.png" />
+    <Resource Include="Images\bgApp.png" />
+    <Resource Include="Images\bgAxis.png" />
+    <Resource Include="Images\bgSide.png" />
+    <Resource Include="Images\bgTask.png" />
+    <Resource Include="Images\cartesian.png" />
+    <Resource Include="Images\close.png" />
+    <Resource Include="Images\compile.png" />
+    <Resource Include="Images\config.png" />
+    <Resource Include="Images\connect.png" />
+    <Resource Include="Images\container.png" />
+    <Resource Include="Images\delete.png" />
+    <Resource Include="Images\disconnect.png" />
+    <Resource Include="Images\dot.png" />
+    <Resource Include="Images\double.png" />
+    <Resource Include="Images\down.png" />
+    <Resource Include="Images\empty.png" />
+    <Resource Include="Images\error.png" />
+    <Resource Include="Images\estop.png" />
+    <Resource Include="Images\exit.png" />
+    <Resource Include="Images\FirmwareUpgrade.png" />
+    <Resource Include="Images\forward.png" />
+    <Resource Include="Images\go.png" />
+    <Resource Include="Images\hauto.png" />
+    <Resource Include="Images\help.png" />
+    <Resource Include="Images\hide.png" />
+    <Resource Include="Images\home.png" />
+    <Resource Include="Images\homing.png" />
+    <Resource Include="Images\homing_16x16.png" />
+    <Resource Include="Images\index.png" />
+    <Resource Include="Images\info.png" />
+    <Resource Include="Images\int.png" />
+    <Resource Include="Images\int_16x16.png" />
+    <Resource Include="Images\io.png" />
+    <Resource Include="Images\io_16x16.png" />
+    <Resource Include="Images\jogging.png" />
+    <Resource Include="Images\jogging_icon.png" />
+    <Resource Include="Images\left.png" />
+    <Resource Include="Images\logging.png" />
+    <Resource Include="Images\logging_16x16.png" />
+    <Resource Include="Images\login-bar.png" />
+    <Resource Include="Images\logo.png" />
+    <Resource Include="Images\maintenance.png" />
+    <Resource Include="Images\max.png" />
+    <Resource Include="Images\minimize.png" />
+    <Resource Include="Images\more - Copy.png" />
+    <Resource Include="Images\more.png" />
+    <Resource Include="Images\new.png" />
+    <Resource Include="Images\off.png" />
+    <Resource Include="Images\on.png" />
+    <Resource Include="Images\open.png" />
+    <Resource Include="Images\parameter.png" />
+    <Resource Include="Images\parameter_16x16.png" />
+    <Resource Include="Images\pause.png" />
+    <Resource Include="Images\play.png" />
+    <Resource Include="Images\pos.png" />
+    <Resource Include="Images\pos_16x16.png" />
+    <Resource Include="Images\program.png" />
+    <Resource Include="Images\program1.png" />
+    <Resource Include="Images\program_16x16.png" />
+    <Resource Include="Images\reboot.png" />
+    <Resource Include="Images\remove.png" />
+    <Resource Include="Images\replace.png" />
+    <Resource Include="Images\replace_all.png" />
+    <Resource Include="Images\resume.png" />
+    <Resource Include="Images\right.png" />
+    <Resource Include="Images\save.png" />
+    <Resource Include="Images\scope.png" />
+    <Resource Include="Images\scope_16x16.png" />
+    <Resource Include="Images\search.png" />
+    <Resource Include="Images\show.png" />
+    <Resource Include="Images\step.png" />
+    <Resource Include="Images\stop.png" />
+    <Resource Include="Images\stop2.png" />
+    <Resource Include="Images\subprg.png" />
+    <Resource Include="Images\subprg_16x16.png" />
+    <Resource Include="Images\system.png" />
+    <Resource Include="Images\system_16x16.png" />
+    <Resource Include="Images\terminal.png" />
+    <Resource Include="Images\terminal_16x16.png" />
+    <Resource Include="Images\up.png" />
+    <Resource Include="Images\update.png" />
+    <Resource Include="Images\user.png" />
+    <Resource Include="Images\variables.png" />
+    <Resource Include="Images\variables_16x16.png" />
+    <Resource Include="Images\view_front.png" />
+    <Resource Include="Images\view_left.png" />
+    <Resource Include="Images\view_normal.png" />
+    <Resource Include="Images\view_right.png" />
+    <Resource Include="Images\view_top.png" />
+    <Resource Include="Images\warning.png" />
+    <Resource Include="Images\xml.png" />
+    <Resource Include="Images\zoomIn.png" />
+    <Resource Include="Images\zoomOut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\fragmentShader.txt" />
+    <Resource Include="Resources\vertexShader.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fragLightShader.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fragmentShader_multiple_basic_light.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vertexShader_multiple_basic_light.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fragmentShader_material_light.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vertexShader_material_light.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fragmentShader_directional_light.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vertexShader_directional_light.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fragmentShader_color.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vertexShader_color.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="LibPrc\LibPrc.csproj">
+      <Project>{6b8024e6-abc4-4ac5-82fd-4e9c30821360}</Project>
+      <Name>LibPrc</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

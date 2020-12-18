@@ -1,0 +1,20 @@
+D:\05.PROGRAMMING\C#\LibPrc\LibPrc\bin\Release\libPrc.dll
+D:\05.PROGRAMMING\C#\LibPrc\LibPrc\bin\Release\libPrc.pdb
+D:\05.PROGRAMMING\C#\LibPrc\LibPrc\obj\Release\LibPrc.csproj.CoreCompileInputs.cache
+D:\05.PROGRAMMING\C#\LibPrc\LibPrc\obj\Release\libPrc.dll
+D:\05.PROGRAMMING\C#\LibPrc\LibPrc\obj\Release\libPrc.pdb
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\LibPrc\LibPrc\bin\Release\libPrc.dll
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\LibPrc\LibPrc\bin\Release\libPrc.pdb
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\LibPrc\LibPrc\obj\Release\LibPrc.csprojResolveAssemblyReference.cache
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\LibPrc\LibPrc\obj\Release\LibPrc.csproj.CoreCompileInputs.cache
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\LibPrc\LibPrc\obj\Release\libPrc.dll
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\LibPrc\LibPrc\obj\Release\libPrc.pdb
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\PRC.GUI\LibPrc\bin\Release\libPrc.dll
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\PRC.GUI\LibPrc\bin\Release\libPrc.pdb
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\PRC.GUI\LibPrc\obj\Release\LibPrc.csprojAssemblyReference.cache
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\PRC.GUI\LibPrc\obj\Release\libPrc.dll
+D:\01.PROJECTS\05. PrestoRobotController\02. PC-GUI\PRC.GUI\LibPrc\obj\Release\libPrc.pdb
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM\LibPrc\obj\Release\LibPrc.csprojAssemblyReference.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM\LibPrc\obj\Release\LibPrc.csproj.CoreCompileInputs.cache
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM\LibPrc\obj\Release\libPrc.dll
+d:\12-Prestosolution\14- Moving Magnet\12-Source Code\PRC_Phatv_3DView_LMMC_7LM_2MM\LibPrc\obj\Release\libPrc.pdb
